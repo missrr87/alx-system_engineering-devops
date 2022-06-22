@@ -1,4 +1,1 @@
-#!bin/bash
-# alx-system_engineering-devops
-:)
-shell basics 
+Where am I? task
