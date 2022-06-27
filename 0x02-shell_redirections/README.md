@@ -13,3 +13,4 @@ how to redirect and filter in shell
 11. how to count directories and subdirectories in the current directory
 12. how to list 10 of the newest file
 13. how to sort and print words that appear once
+14. how to display lines that contain 'root'
