@@ -7,3 +7,4 @@ how to redirect and filter in shell
 5. how to display first 10 lines
 6. how to display 3rd line of a file
 7. how to create file with a text at the end
+8. how to write the result of a command into a file
