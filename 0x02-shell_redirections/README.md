@@ -14,3 +14,4 @@ how to redirect and filter in shell
 12. how to list 10 of the newest file
 13. how to sort and print words that appear once
 14. how to display lines that contain 'root'
+15. how to count lines that contain 'bin'
