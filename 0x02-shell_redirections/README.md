@@ -21,3 +21,4 @@ how to redirect and filter in shell
 19. how to replace characters
 20. how to remove a character
 21. how to reverse an input
+22. how to display sorted user and their home directory
