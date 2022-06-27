@@ -19,3 +19,4 @@ how to redirect and filter in shell
 17. how to display lines inverting a certain line
 18. how to display all lines that start with letters
 19. how to replace characters
+20. how to remove a character
