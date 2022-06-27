@@ -15,3 +15,4 @@ how to redirect and filter in shell
 13. how to sort and print words that appear once
 14. how to display lines that contain 'root'
 15. how to count lines that contain 'bin'
+16. how to display 3 lines after a pattern
