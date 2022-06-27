@@ -10,3 +10,4 @@ how to redirect and filter in shell
 8. how to write the result of a command into a file
 9. how to duplicate last line of a file
 10. how to delete a specific file type and name
+11. how to count directories and subdirectories in the current directory
