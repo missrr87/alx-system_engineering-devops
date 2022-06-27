@@ -17,3 +17,4 @@ how to redirect and filter in shell
 15. how to count lines that contain 'bin'
 16. how to display 3 lines after a pattern
 17. how to display lines inverting a certain line
+18. how to display all lines that start with letters
